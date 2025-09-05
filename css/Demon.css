@@ -1511,7 +1511,7 @@ max-width: 500px;
     padding-top: var(--main-padding-top);
     padding-bottom: var(--main-padding-bottom);
     background-color: var(--section-background);
-    background-image: url(/attachment/stats.jpg);
+    background-image: url(./attachment/stats.jpg);
     background-size: cover;
     position: relative;
     z-index: 1;
@@ -1603,7 +1603,7 @@ max-width: 500px;
 .discount .text {
     flex-basis: 50%;
     position: relative;
-    background-image: url(/attachment/discount-background2.jpg);
+    background-image: url(./attachment/discount-background2.jpg);
     background-size: cover;
     padding: 10px 0px;
     display: flex;
@@ -1917,6 +1917,7 @@ max-width: 500px;
 }
 
 /* End Animation */
+
 
 
 
