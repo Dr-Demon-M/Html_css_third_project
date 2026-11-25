@@ -1,8 +1,12 @@
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css" alt="HTML5 and CSS3" />
+</p>
+
 # Demon — HTML & CSS Third Project
 
 A responsive multi-section website template built with **pure HTML5 and CSS3** — no frameworks, no JavaScript. Third and most advanced practice project in a series of three.
 
-## Sections
+## 🧩 Sections
 
 - Header with a **mega menu**
 - Articles
@@ -10,7 +14,7 @@ A responsive multi-section website template built with **pure HTML5 and CSS3** �
 - Features
 - Testimonials, services, our skills, work steps, videos, events, pricing, team, stats, and a discount section
 
-## Tech Stack
+## 🧰 Tech Stack
 
 - HTML5 (semantic markup)
 - CSS3 (Flexbox / Grid, animations, media queries)
@@ -18,7 +22,7 @@ A responsive multi-section website template built with **pure HTML5 and CSS3** �
 - Font Awesome icons
 - Google Fonts (Cairo)
 
-## Run it
+## 🚀 Run it
 
 No build step needed:
 
